@@ -133,6 +133,10 @@ Table of Contents
 ### Flutter For Beginners
 - [Learn Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)
 
+### Competitive Programming For Code Monkeys
+- [What is Competitive Programming](https://www.guru99.com/competitive-programming-topcoder.html)
+- [Top Competitive Websites to learn Competitive Programming](https://dev.to/tanvirrahman/top-competitive-programming-sites-you-should-know-in-2022-32m3)
+
 ### Linux
 - [Linux for Ethical Hackers (2022 - Full Kali Linux Course)](https://youtu.be/U1w4T03B30I)
 - [15 Basic ‘ls’ Command Examples in Linux](https://www.tecmint.com/15-basic-ls-command-examples-in-linux/)
